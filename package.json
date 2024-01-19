@@ -8,7 +8,12 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
+    "react-video-js-player": "^1.1.1",
+    "video.js": "^7.21.0",
+    "videojs-contrib-eme": "^3.11.1",
+    "videojs-contrib-quality-levels": "^2.2.1",
+    "videojs-hls-quality-selector": "^1.1.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

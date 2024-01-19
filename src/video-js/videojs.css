@@ -1,0 +1,14 @@
+.playerWrapper{
+    height: 100%;
+    width: 100%;
+}
+
+.customVideoPlayer{
+    padding-top: 100px;
+    color: black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.video-js.vjs-hls-quality-selector{display:block}
